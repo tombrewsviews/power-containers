@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HorizontalVertical",
+"productVersion": "0.1",
+"dataUrl": "HVB2.data.unityweb",
+"wasmCodeUrl": "HVB2.wasm.code.unityweb",
+"wasmFrameworkUrl": "HVB2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
